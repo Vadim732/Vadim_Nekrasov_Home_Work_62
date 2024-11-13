@@ -1,0 +1,6 @@
+﻿.container {
+    border-radius: 1.6em;
+    padding: 0.8em 0;
+    display: flex;
+    justify-content: center;
+}
